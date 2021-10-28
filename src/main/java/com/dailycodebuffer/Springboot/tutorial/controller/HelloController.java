@@ -11,6 +11,6 @@ public class HelloController {
 //    @RequestMapping(value ="/", method = RequestMethod.GET)
     @GetMapping("/")
     public String helloWorld(){
-        return "Spring Boot Tutorial - Ayush Kumar";
+        return "Spring Boot Tutorial - Ayush Kumar Singh";
     }
 }
